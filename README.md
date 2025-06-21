@@ -56,7 +56,7 @@ Este proyecto es con fines educativos y de concienciación. No fomenta actividad
 ## Contacto
 
 Creador: **Thrumanshow**  
-Ecosistema: [HormigasAIS](https://github.com/Thrumanshow/hormigasais)  
+Ecosistema: [HormigasAIS](https://github.com/HormigasAIS)  
 Twitter: [HormigasAIS](https://x.com/HormigasAIS?t=KTNKCM6-PNFuXElPLQlrcg&s=09)
 
 ---
